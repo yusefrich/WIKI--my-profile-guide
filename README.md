@@ -30,8 +30,8 @@ Instalation code
 
 
 
-# Udacity student data
+# Contact
 
  *NAME*: Yusef Richard de Oliveira Alves <p>
- *COURSE*: udacity Nanodegree fullstack <p>
- *EMAIL*:yusef.rick@gmail.com <p>
+ *EDUCATION*: Udacity Full Stack, bachelor degree in computer science <p>
+ *EMAIL*:richard.alves.dev@gmail.com <p>

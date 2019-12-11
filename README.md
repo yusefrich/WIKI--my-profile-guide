@@ -3,6 +3,9 @@
 
 Application description.
 
+## Easy guide to my projects
+
+[Here you can find all the info needed to guide you through my projects](https://github.com/yusefrich/WIKI--my-profile-guide/wiki "my profile guide").
 ## Getting Started
 
 Instalation process description
